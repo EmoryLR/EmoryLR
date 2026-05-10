@@ -6,7 +6,6 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/EmoryLR/) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=EmoryLR&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=EmoryLR&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=EmoryLR&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
