@@ -3,8 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/EmoryLR/) 
-[![LinkedIn](www.linkedin.com/in/emory-roberts-b2335b404) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/emory-roberts-b2335b404) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/EmoryLR) 
 
 
 ---
